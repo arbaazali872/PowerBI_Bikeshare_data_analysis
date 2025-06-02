@@ -63,3 +63,6 @@ The goal of this project is to demonstrate the full data analytics lifecycle usi
 - Enhance portfolio with a polished BI project
 
 ---
+## 📸 Project Preview
+
+![Dashboard Preview](images/iamge.png)
