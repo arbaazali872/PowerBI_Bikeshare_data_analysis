@@ -65,4 +65,4 @@ The goal of this project is to demonstrate the full data analytics lifecycle usi
 ---
 ## 📸 Project Preview
 
-![Dashboard Preview](images/iamge.png)
+![Dashboard Preview](images/image.png)
